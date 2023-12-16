@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "title": "Xiaomi Mi True Wireless Earbuds",
+    "imgURL": "https://10noo.com/wp-content/uploads/2021/10/mi-true-wireless-earbuds-basic-2-kulaklik-198.jpg",
+    "price": "₺134,77",
+    "inStock": true
+  },
+  {
+    "id": 1,
+    "title": "General Mobile GM 20",
+    "imgURL": "https://cdn03.ciceksepeti.com/cicek/kc760169-1/XL/general-mobile-gm-20-pro-128-gb-siyah-mavi-general-mobile-garantili-kc760169-1-d4924e7d6e1148338ec2282e6d88680f.jpg",
+    "price": "₺1.810,21",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "Philips 58PUS8505/62 The One",
+    "imgURL": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/55900/uploads/urunresimleri/buyuk/philips-58-pus-850762-146-ekran-androi-a-4a53..jpg",
+    "price": "₺6.992,25",
+    "inStock": false
+  },
+  {
+    "id": 3,
+    "title": "LG 49UM7100PLB Ultra HD 4K",
+    "imgURL": "https://cdn.cimri.io/image/320x320/coruian-lg-49um7100plb-3-mm-uyumlu-tv-ekran-koruyucu_584846941.jpg",
+    "price": "₺4.614,38",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy M31 SM-M315F",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2Q-fJ1t9Oc-n25cQSI4eXGKEmYIn9ntUfo-0HmosJ7cHpdl0UkNHKkAKPtxWQybzgQM&usqp=CAU",
+    "price": "₺2.995,80",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "title": "Apple AirPods Series 2",
+    "imgURL": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_120875340/mobile_786_587_png/APPLE-AirPods-Pro-%282.-Nesil%29-ve-MagSafe-%C5%9Earj-Kutusu-%28USB%E2%80%91C%29-Beyaz-MTJV3TU-A",
+    "price": "₺1.299,00",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "title": "Lenovo Tab M10 Plus",
+    "imgURL": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108025288/mobile_786_587_png/LENOVO-Tab-M10-Plus-10.61%22-4GB--128-GB--2K-Tablet---K%C4%B1l%C4%B1f---Kalem-ZAAM0175TR",
+    "price": "₺2.496,50",
+    "inStock": false
+  },
+  {
+    "id": 7,
+    "title": "Xiaomi Redmi 20000 Mah",
+    "imgURL": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1635217551.37974859.png",
+    "price": "₺134,70",
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "title": "Xiaomi Mijia Smart Home 360",
+    "imgURL": "https://productimages.hepsiburada.net/s/85/375-375/110000027279197.jpg",
+    "price": "₺269,73",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "title": "Xiaomi Mi Box S 4K Ultra HD",
+    "imgURL": "https://www.birnumara.com/image/cache/data/resimler/xiaomi-mi-box-s-4k-ultra-hd-ortam-oynatici-32848-720x660.jpg",
+    "price": "₺478,53",
+    "inStock": true
+  }
+]
